@@ -1,1 +1,1 @@
-git fetch --dry-run
+git pull
